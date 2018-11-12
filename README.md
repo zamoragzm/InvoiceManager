@@ -1,0 +1,2 @@
+# InvoiceManager
+Academic Project
